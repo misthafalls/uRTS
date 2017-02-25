@@ -2,7 +2,7 @@
 Grand Scale Strategy done right!
 
 
-Hello! Welcome to the project! Let's get you started on installing the Unreal engine and working on the project with us!.
+Hello! Welcome to the project! Let's get you started on installing the Unreal engine and working on uRTS with us!.
 
 Step one is to get the Unreal engine launcher. It can be found at https://www.unrealengine.com/register. Follow all the instructions included with the registration and installation process. 
 
